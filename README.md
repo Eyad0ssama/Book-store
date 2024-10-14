@@ -27,4 +27,4 @@ Database: MongoDB
 Payment Integration: Stripe (or other payment service)
 Authentication: JWT for secure login and session management
 Installation
-To set up the project locally, follow these steps:# Book-store
+To set up the project locally, follow these steps:# Book-stor
